@@ -1,0 +1,13 @@
+C:\Users\Enrique\source\repos\OcaBorracha\OcaBorracha\obj\Debug\netcoreapp3.1\OcaBorracha.csprojAssemblyReference.cache
+C:\Users\Enrique\source\repos\OcaBorracha\OcaBorracha\obj\Debug\netcoreapp3.1\OcaBorracha.AssemblyInfoInputs.cache
+C:\Users\Enrique\source\repos\OcaBorracha\OcaBorracha\obj\Debug\netcoreapp3.1\OcaBorracha.AssemblyInfo.cs
+C:\Users\Enrique\source\repos\OcaBorracha\OcaBorracha\obj\Debug\netcoreapp3.1\OcaBorracha.csproj.CoreCompileInputs.cache
+C:\Users\Enrique\source\repos\OcaBorracha\OcaBorracha\bin\Debug\netcoreapp3.1\OcaBorracha.exe
+C:\Users\Enrique\source\repos\OcaBorracha\OcaBorracha\bin\Debug\netcoreapp3.1\OcaBorracha.deps.json
+C:\Users\Enrique\source\repos\OcaBorracha\OcaBorracha\bin\Debug\netcoreapp3.1\OcaBorracha.runtimeconfig.json
+C:\Users\Enrique\source\repos\OcaBorracha\OcaBorracha\bin\Debug\netcoreapp3.1\OcaBorracha.runtimeconfig.dev.json
+C:\Users\Enrique\source\repos\OcaBorracha\OcaBorracha\bin\Debug\netcoreapp3.1\OcaBorracha.dll
+C:\Users\Enrique\source\repos\OcaBorracha\OcaBorracha\bin\Debug\netcoreapp3.1\OcaBorracha.pdb
+C:\Users\Enrique\source\repos\OcaBorracha\OcaBorracha\obj\Debug\netcoreapp3.1\OcaBorracha.dll
+C:\Users\Enrique\source\repos\OcaBorracha\OcaBorracha\obj\Debug\netcoreapp3.1\OcaBorracha.pdb
+C:\Users\Enrique\source\repos\OcaBorracha\OcaBorracha\obj\Debug\netcoreapp3.1\OcaBorracha.genruntimeconfig.cache
