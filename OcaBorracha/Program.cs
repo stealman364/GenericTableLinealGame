@@ -16,13 +16,7 @@ namespace OcaBorracha
             List<IPlayer> playersList = GetListPlayers(CountPlayers());
             while (!PlayerWin(playersList))
             {
-                playersList.ForEach(player =>
-                {
-                    var result = board.AdvanceSquares(player);
-                    Console.WriteLine(result);
-                    //TODO arreglar salida esto es una solucion kk
-                    if (result == "FIN") return;
-                });
+                TurnPlayer(playersList, board);
             }
         }
 
@@ -52,6 +46,18 @@ namespace OcaBorracha
             bool bandera = false;
             playerList.ForEach(x => { if (x.Win()) bandera = true; });
             return bandera;
+        }
+        private static bool TurnPlayer(List<IPlayer> playersList, Board board)
+        {
+            var result = "";
+            foreach (var player in playersList)
+            {
+                result = board.AdvanceSquares(player);
+                Console.WriteLine(result);
+                if (result == "FIN")
+                    return true;
+            }
+            return false;
         }
     }
 }
